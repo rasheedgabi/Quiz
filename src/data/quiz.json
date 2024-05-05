@@ -1,0 +1,57 @@
+{
+    "data": [
+        [
+            {
+              "question": "What does HTML stand for?",
+              "choices": ["Hyper Text Markup Language", "High Tech Markup Language", "Hyperlink and Text Markup Language", "Hyper Transfer Markup Language"],
+              "answer": "Hyper Text Markup Language"
+            },
+            {
+              "question": "Which tag is used to define the body of an HTML document?",
+              "choices": ["<head>", "<title>", "<body>", "<html>"],
+              "answer": "<body>"
+            },
+            {
+              "question": "Which tag is used to create a hyperlink in HTML?",
+              "choices": ["<a>", "<link>", "<href>", "<hyperlink>"],
+              "answer": "<a>"
+            },
+            {
+              "question": "Which tag is used to define an image in HTML?",
+              "choices": ["<image>", "<img>", "<src>", "<picture>"],
+              "answer": "<img>"
+            },
+            {
+              "question": "What is the correct HTML syntax for creating a paragraph?",
+              "choices": ["<p></p>", "<paragraph></paragraph>", "<para></para>", "<pg></pg>"],
+              "answer": "<p></p>"
+            },
+            {
+              "question": "Which tag is used to create a numbered list in HTML?",
+              "choices": ["<ul>", "<li>", "<nl>", "<ol>"],
+              "answer": "<ol>"
+            },
+            {
+              "question": "What is the correct HTML tag for inserting a line break?",
+              "choices": ["<lb>", "<break>", "<br>", "<line>"],
+              "answer": "<br>"
+            },
+            {
+              "question": "What does the <h1> tag represent in HTML?",
+              "choices": ["Header Level 1", "Hyperlink Level 1", "Heading 1", "Highlight 1"],
+              "answer": "Heading 1"
+            },
+            {
+              "question": "Which HTML attribute is used to define inline styles?",
+              "choices": ["style", "class", "font", "color"],
+              "answer": "style"
+            },
+            {
+              "question": "Which tag is used to create a horizontal line in HTML?",
+              "choices": ["<line>", "<hr>", "<horizontal>", "<hl>"],
+              "answer": "<hr>"
+            }
+          ]
+          
+    ]
+}
